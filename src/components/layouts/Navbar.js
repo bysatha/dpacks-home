@@ -2,6 +2,10 @@ import React, {Component} from "react";
 import {Link} from "react-router-dom";
 
 export default class Navbar extends Component {
+    topFunction() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+    }
     render() {
         return (
             <nav className="navbar navbar-expand-lg navbar-light navbar-bg">
@@ -16,32 +20,34 @@ export default class Navbar extends Component {
                             <rect x="1" y="9" width="14" height="1.5" rx="1" fill="#737dff"></rect>
                         </svg>
                     </button>
-                    <Link to={"/"} className="navbar-brand">
+                    <Link onClick={this.topFunction} to="/" className="navbar-brand">
                         <img src={"/img/dpacks-nav.png"} alt={"dpacks logo"} className={"nav-logo nav-logo-filter"}/>
                     </Link>
 
                     <div className="collapse navbar-collapse" id="navbarTogglerDemo03">
                         <ul className="navbar-nav mr-auto mt-2 mt-lg-0">
                             <li className="nav-item con-mid">
-                                <Link to={"/docs"} className="nav-link">
+                                <a href={"#technology"} className="nav-link">
                                     Technology
-                                </Link>
+                                </a>
                             </li>
                             <li className="nav-item con-mid">
-                                <Link to={"/docs"} className="nav-link">
+                                <a href={"https://bysatha.netlify.app/"} target={"_blank"} rel="noopener noreferrer"
+                                   className="nav-link">
                                     bySatha
-                                </Link>
+                                </a>
                             </li>
                             <li className="nav-item con-mid">
-                                <Link to={"/"} className="nav-link">
+                                <a href={"https://bysatha.netlify.app/"} target={"_blank"} rel="noopener noreferrer"
+                                   className="nav-link">
                                     Donate
-                                </Link>
+                                </a>
                             </li>
                         </ul>
 
                         <div className="nav-right navbar-nav ml-auto">
                             <li className="nav-item con-mid">
-                                <a href={"https://nightly.dpacks.net"} className="nav-link nav-sites-btn">
+                                <a href={"https://nightly.dpacks.net"} target={"_blank"} rel="noopener noreferrer" className="nav-link nav-sites-btn">
                                     <span className="sites-nav-link">
                                         <span style={{textAlign: "left"}}>Nightly 1.0.0 - Beta</span>
                                     </span>

@@ -343,9 +343,9 @@ nav li a {
 }
 
 .edition-list .col:hover {
-    background-color: #f8f8f8;
+    /*background-color: #f8f8f8;*/
     border-radius: 10px;
-    cursor: pointer;
+    /*cursor: pointer;*/
 }
 
 .edition-availability-badge {
@@ -413,4 +413,16 @@ nav li a {
 
 .not-found-head, .not-found-head img, .not-found-head h1 {
     display: inline-block;
+}
+
+.dpacks-edition-block {
+    color: #000
+}
+
+.dpacks-edition-block:hover, .dpacks-edition-block:focus, .dpacks-edition-block:active {
+    color: #000;
+    background-color: #f8f8f8;
+    outline: none;
+    text-decoration: none;
+    cursor: pointer;
 }

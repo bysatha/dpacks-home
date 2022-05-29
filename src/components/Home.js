@@ -44,13 +44,14 @@ export default class Home extends Component {
                                 Coming Soon
                             </p>
                         </div>
-                        <div className={"col con-mid"}>
+                        <a href={"https://nightly.dpacks.net"}
+                           className={"col con-mid dpacks-edition-block"}>
                             <p className={"edition-name"}>DPACKS NIGHTLY</p>
                             <p className={"edition-desc"}>Web 3.0 Edition</p>
                             <p className={"edition-availability-badge edition-availability-badge-green"}>
                                 V 1.0.0 BETA
                             </p>
-                        </div>
+                        </a>
                         <div className={"col con-mid"}>
                             <p className={"edition-name"}>DPACKS CORE</p>
                             <p className={"edition-desc"}>The core technology</p>
@@ -63,7 +64,7 @@ export default class Home extends Component {
 
                 {/* Footer 1 */}
                 {/* Section 7 */}
-                <div className={"footer"}>
+                <div className={"footer"} id={"technology"}>
                     <div className={"container additional-page-sec-1"}>
                         <div className={"footer-about-body"}>
 
@@ -117,12 +118,12 @@ export default class Home extends Component {
                                     <img src={"/img/footer-logo.png"} className={"footer-logo-1"}
                                          alt={"Dpacks logo"}/>
                                     <span className={"by-satha-vr"}>|</span><span className={"by-satha"}>BY <a
-                                    href={"#"}>SATHA</a></span>
+                                    href={"https://bysatha.netlify.app/"} target={"_blank"} rel="noopener noreferrer">SATHA</a></span>
                                 </div>
                                 <div className={"col"}>
-                                    <a className={"footer-page-link"} href={"#"}>Privacy Policy</a>
+                                    <a className={"footer-page-link"} href={"/privacy"}>Privacy Policy</a>
                                     <span className={"privacy-divider"}>•</span>
-                                    <a className={"footer-page-link"} href={"#"}>Terms & Conditions</a>
+                                    <a className={"footer-page-link"} href={"/terms"}>Terms & Conditions</a>
                                 </div>
                                 <div className={"col"}>
                                     <p className={"copyright-text"}>©{new Date().getFullYear()} DPACKS
