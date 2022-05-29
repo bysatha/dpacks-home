@@ -74,44 +74,34 @@ export default class Home extends Component {
 
                             <h3><span style={{color: "#737dff"}}>Dpacks</span></h3>
                             <p>
-                                There are bunch of CMS in the world. But all of them creating your website. They
-                                don't
-                                only
-                                managing
-                                your contents. Finally, You have created a website on its own, not your own. Dpacks
-                                gives
-                                your power back. No more CMS depended websites. You create
-                                your
-                                website, your own. Dpacks will take the rest of content management.
+                                There are a bunch of CMS in the world. But they don't only manage your content. The
+                                result is your website would be CMS dependent. Finally, You have created a website on
+                                its own, not your own. Dpacks gives your power back to say no more CMS depended on
+                                websites. You create your website, your own. Dpacks will take the rest of the content
+                                management.
                             </p>
                             <p>
-                                Dpacks is the the world's first language independent, flexible, and effortless
-                                headless
-                                public
-                                CMS. Also
-                                the only CMS that you can easily apply after the full web development.
+                                Dpacks is the world's first language independent, flexible, and effortless headless
+                                public CMS. Also, the only CMS that you can easily apply after the complete web
+                                development.
                             </p>
                             <h5><span style={{color: "#737dff"}}>The  Technology</span></h5>
                             <p>
-                                Dpacks is a technology that allows you to manage web variable DATA lightning-fast.
-                                And Nightly is its web 3.0 edition. Dpacks Nightly stores all your data packets in
-                                the decentralised internet. This allows you to make all your all web content
-                                decentralised.
+                                Dpacks is a technology that allows you to manage web variable DATA lightning-fast. And
+                                Nightly is its web 3.0 edition. Dpacks Nightly stores all your data packets on the
+                                decentralized internet. That allows you to make all your all web content decentralized.
                             </p>
                             <p>
-                                Dpacks scans and identifies every variable data in a webpage and package them into
-                                data packets. this allows to manage them anytime via the dpacks admin console
+                                Dpacks scans and identifies every variable data in a webpage and package them into data
+                                packets. That allows you to manage them anytime via the dpacks admin console.
                             </p>
                             <h5><span style={{color: "#737dff"}}>Dpacks </span>+</h5>
-                            <p>Dpacks packaging all the public web content according to the your favor. It means all
-                                the
-                                variable web content stores in either decentralised or centralised cloud. That
-                                allows
-                                search
-                                engines to easily crawl changes of your website and index your data lighting fast.
-                                This
-                                concept
-                                would accelerate the speed of the whole cyberspace</p>
+                            <p>
+                                Dpacks packaging all the public web content according to your favor. All the variable
+                                web content will store in either the decentralized or centralized cloud. That allows
+                                search engines to efficiently crawl the changes of your website and index your data
+                                lighting fast. This concept would accelerate the speed of the whole cyberspace.
+                            </p>
                         </div>
                     </div>
                     <div className={"footer-section"}>
@@ -122,7 +112,8 @@ export default class Home extends Component {
                                     <img src={"/img/footer-logo.png"} className={"footer-logo-1"}
                                          alt={"Dpacks logo"}/>
                                     <span className={"by-satha-vr"}>|</span><span className={"by-satha"}>BY <a
-                                    href={"https://bysatha.netlify.app/"} target={"_blank"} rel="noopener noreferrer">SATHA</a></span>
+                                    href={"https://bysatha.netlify.app/"} target={"_blank"}
+                                    rel="noopener noreferrer">SATHA</a></span>
                                 </div>
                                 <div className={"col"}>
                                     <a className={"footer-page-link"} href={"/privacy"}>Privacy Policy</a>
