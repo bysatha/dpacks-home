@@ -1,9 +1,13 @@
 import React, {Component} from "react";
+import {Helmet} from "react-helmet";
 
 export default class Home extends Component {
     render() {
         return (
             <div className="container">
+                <Helmet>
+                    <title>Dpacks | First ever database and language exempt post-apply CMS</title>
+                </Helmet>
                 <div className={"hero"}>
                     <div className="row pc-hero-header">
                         <div className={"col-4"}>
