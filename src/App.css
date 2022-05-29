@@ -396,4 +396,17 @@ nav li a {
     }
 }
 
-/* 545, 575 */
+/* 404 Not Found Page */
+
+.not-found {
+    width: 100%;
+    min-height: calc(100vh - 57px);
+}
+
+.not-found-img {
+    width: 100px;
+}
+
+.not-found-head, .not-found-head img, .not-found-head h1 {
+    display: inline-block;
+}
