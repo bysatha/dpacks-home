@@ -312,7 +312,7 @@ nav li a {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: end;
+    align-items: flex-end;
     text-align: right;
     border-right: 5px solid #737dff;
     padding-right: 50px;
