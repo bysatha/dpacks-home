@@ -95,13 +95,6 @@ export default class Home extends Component {
                                 Dpacks scans and identifies every variable data in a webpage and package them into data
                                 packets. That allows you to manage them anytime via the dpacks admin console.
                             </p>
-                            <h5><span style={{color: "#737dff"}}>Dpacks </span>+</h5>
-                            <p>
-                                Dpacks packaging all the public web content according to your favor. All the variable
-                                web content will store in either the decentralized or centralized cloud. That allows
-                                search engines to efficiently crawl the changes of your website and index your data
-                                lighting fast. This concept would accelerate the speed of the whole cyberspace.
-                            </p>
                         </div>
                     </div>
                     <div className={"footer-section"}>
