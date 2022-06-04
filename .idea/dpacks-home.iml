@@ -9,5 +9,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="bysatha-home" />
+    <orderEntry type="module" module-name="dpacks-nightly-client" />
   </component>
 </module>

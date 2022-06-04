@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../../bysatha-home/.idea/bysatha-home.iml" filepath="$PROJECT_DIR$/../../bysatha-home/.idea/bysatha-home.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dpacks-home.iml" filepath="$PROJECT_DIR$/.idea/dpacks-home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dpacks-nightly-client/.idea/dpacks-nightly-client.iml" filepath="$PROJECT_DIR$/../dpacks-nightly-client/.idea/dpacks-nightly-client.iml" />
     </modules>
   </component>
 </project>
