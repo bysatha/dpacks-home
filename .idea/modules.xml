@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../bysatha-home/.idea/bysatha-home.iml" filepath="$PROJECT_DIR$/../../bysatha-home/.idea/bysatha-home.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dpacks-home.iml" filepath="$PROJECT_DIR$/.idea/dpacks-home.iml" />
     </modules>
   </component>

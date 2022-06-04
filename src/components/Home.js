@@ -48,7 +48,7 @@ export default class Home extends Component {
                                 Coming Soon
                             </p>
                         </div>
-                        <a href={"https://dpacks-nightly.netlify.app/"}
+                        <a href={"https://dpacks.space/"}
                            className={"col con-mid dpacks-edition-block"}>
                             <p className={"edition-name"}>DPACKS NIGHTLY</p>
                             <p className={"edition-desc"}>Web 3.0 Edition</p>
