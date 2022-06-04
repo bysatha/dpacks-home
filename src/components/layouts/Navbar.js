@@ -38,9 +38,15 @@ export default class Navbar extends Component {
                                 </a>
                             </li>
                             <li className="nav-item con-mid">
-                                <a href={"https://bysatha.netlify.app/"} target={"_blank"} rel="noopener noreferrer"
+                                <a href={"https://gitcoin.co/tip?username=sathninduk"} target={"_blank"} rel="noopener noreferrer"
                                    className="nav-link">
-                                    Donate
+                                    Crypto Donate
+                                </a>
+                            </li>
+                            <li className="nav-item con-mid">
+                                <a href={"https://ko-fi.com/sathnindu"} target={"_blank"} rel="noopener noreferrer"
+                                   className="nav-link">
+                                    ko-fi Donate
                                 </a>
                             </li>
                         </ul>
