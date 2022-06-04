@@ -1,6 +1,8 @@
 import React, {Component} from "react";
 import {Helmet} from "react-helmet";
 
+// commit
+
 export default class Privacy extends Component {
     render() {
         return (
