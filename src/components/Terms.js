@@ -225,8 +225,8 @@ export default class Terms extends Component {
                                 className="statement-end-if-in-editor"/>," “<strong>we</strong>," “<strong>us</strong>," or “<strong>our</strong>”), concerning your access to and use of the <bdt
                                 className="block-container question question-in-editor"
                                 data-id="92c3b320-1d8b-c74c-db68-d12810736807" data-type="question"><a
-                                href="https://dpacks.net" rel="noopener noreferrer" target="_blank"
-                                data-custom-class="link">https://dpacks.net</a></bdt> website as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Site”).<span
+                                href="https://dpacks.netlify.app/" rel="noopener noreferrer" target="_blank"
+                                data-custom-class="link">https://dpacks.netlify.app/</a></bdt> website as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Site”).<span
                                 style={{
                                     fontSize: '11.0pt',
                                     lineHeight: '115%',
@@ -1813,8 +1813,8 @@ export default class Terms extends Component {
                                             style={{color: 'rgb(89, 89, 89)', fontSize: '14.6667px'}}>&nbsp;
                                             <bdt className="block-container question question-in-editor"
                                                  data-id="d10c7fd7-0685-12ac-c717-cbc45ff916d1" data-type="question"><a
-                                                href="https://dpacks.net/privacy" rel="noopener noreferrer"
-                                                target="_blank" data-custom-class="link">https://dpacks.net/privacy</a>
+                                                href="https://dpacks.netlify.app/" rel="noopener noreferrer"
+                                                target="_blank" data-custom-class="link">https://dpacks.netlify.app/</a>
                                             </bdt>
                                         </b><span style={{
                                             color: 'rgb(89, 89, 89)',

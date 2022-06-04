@@ -39,10 +39,10 @@ export default class Privacy extends Component {
                     <ul>
                         <li style={{lineHeight: '1.5'}}><span style={{fontSize: '15px', color: 'rgb(89, 89, 89)'}}><span
                             style={{fontSize: '15px', color: 'rgb(89, 89, 89)'}}><span data-custom-class="body_text">Visit our website<bdt
-                            className="block-component"/> at <bdt className="question"><a href="https://dpacks.net"
+                            className="block-component"/> at <bdt className="question"><a href="https://dpacks.netlify.app/"
                                                                                           rel="noopener noreferrer"
                                                                                           target="_blank"
-                                                                                          data-custom-class="link">https://dpacks.net</a></bdt><span
+                                                                                          data-custom-class="link">https://dpacks.netlify.app/</a></bdt><span
                             style={{fontSize: '15px'}}><span style={{color: 'rgb(89, 89, 89)'}}><span
                             data-custom-class="body_text"><span style={{fontSize: '15px'}}><span
                             style={{color: 'rgb(89, 89, 89)'}}><bdt className="statement-end-if-in-editor">, or any website of ours that links to this privacy notice</bdt></span></span></span></span></span></span></span></span>

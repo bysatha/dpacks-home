@@ -47,7 +47,7 @@ export default class Navbar extends Component {
 
                         <div className="nav-right navbar-nav ml-auto">
                             <li className="nav-item con-mid">
-                                <a href={"https://nightly.dpacks.net"} target={"_blank"} rel="noopener noreferrer" className="nav-link nav-sites-btn">
+                                <a href={"https://dpacks-nightly.netlify.app/"} target={"_blank"} rel="noopener noreferrer" className="nav-link nav-sites-btn">
                                     <span className="sites-nav-link">
                                         <span style={{textAlign: "left"}}>Nightly 1.0.0 - Beta</span>
                                     </span>
