@@ -32,7 +32,7 @@ export default class Navbar extends Component {
                                 </a>
                             </li>
                             <li className="nav-item con-mid">
-                                <a href={"https://bysatha.netlify.app/"} target={"_blank"} rel="noopener noreferrer"
+                                <a href={"https://bysatha.com/"} target={"_blank"} rel="noopener noreferrer"
                                    className="nav-link">
                                     bySatha
                                 </a>

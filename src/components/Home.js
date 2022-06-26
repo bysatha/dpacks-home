@@ -105,7 +105,7 @@ export default class Home extends Component {
                                     <img src={"/img/footer-logo.png"} className={"footer-logo-1"}
                                          alt={"Dpacks logo"}/>
                                     <span className={"by-satha-vr"}>|</span><span className={"by-satha"}>BY <a
-                                    href={"https://bysatha.netlify.app/"} target={"_blank"}
+                                    href={"https://bysatha.com/"} target={"_blank"}
                                     rel="noopener noreferrer">SATHA</a></span>
                                 </div>
                                 <div className={"col"}>
