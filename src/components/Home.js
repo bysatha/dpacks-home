@@ -99,7 +99,6 @@ export default class Home extends Component {
                     </div>
                     <div className={"footer-section"}>
                         <div className={"container"}>
-                            {/*<h1>Footer</h1>*/}
                             <div className={"row"}>
                                 <div className={"col"}>
                                     <img src={"/img/footer-logo.png"} className={"footer-logo-1"}
